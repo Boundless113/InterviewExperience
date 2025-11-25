@@ -26,3 +26,11 @@
 ## 链表
 
 ## 位运算
+
+## 数学
+
+### 可被 5 整除的二进制前缀
+
+我们将xi 定义为其二进制表示形式为子数组 nums[0..i] (从最高有效位到最低有效位)。
+例如，如果 nums =[1,0,1] ，那么 x0 = 1, x1 = 2, 和 x2 = 5。
+返回布尔值列表 answer，只有当 xi 可以被 5 整除时，答案 answer[i] 为 true，否则为 false。leetcode 例题：<https://leetcode.cn/problems/binary-prefix-divisible-by-5/description/?envType=daily-question&envId=2025-11-24>
